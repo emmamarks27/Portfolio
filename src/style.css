@@ -183,6 +183,10 @@ a:visited {
     font-size: 1.25em;
   }
 
+  .project-tile {
+    color: white;
+  }
+
   #projects {
     padding-bottom: 25em;
     margin-bottom: 25em;
